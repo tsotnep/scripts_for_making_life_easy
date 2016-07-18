@@ -3,8 +3,9 @@
         #you should not put spaces in a single argument
     # python replace_a_line_in_file_that_starts_with_smth.py OLD_LINE_THAT_STARTS_WITH_STRING_WRITTEN_HERE NEW_LINE_TEXT
         #you should not put spaces in a single argument
+        #you should change lines 37, 38
     # python replace_a_line_in_file_that_starts_with_smth.py
-        #you have to change the script, and modify the arguments manually, lines 24-29
+        #you should change lines 26, 27, 28, 29
 
 
 
