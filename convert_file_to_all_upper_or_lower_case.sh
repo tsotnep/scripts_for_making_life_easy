@@ -11,3 +11,9 @@ FileName=file.txt
 #in case you want to use that in shell, then use that commands by yourself.
     #export b=`echo "${a,,}"`
 
+#then open ATOM editor
+	# ctrl + F
+	# search for underscore _
+	# alt + enter
+	# select all characters next to underscore
+	# ctrl + k + u
